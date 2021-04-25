@@ -1,0 +1,17 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+h2{
+  color: white;
+  padding: 15px;
+}
+
+#root{
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
